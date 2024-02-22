@@ -403,7 +403,24 @@ hr{
         margin: 0 auto;
     }
 }
+@media screen and (max-width:400px){
+    header{
+        display: flex;
 
+    }
+    nav{
+        font-size: x-small;
+        display: flex;
+    
+    }
+    nav li{
+        display: flex;
+        justify-content: space-between;
+
+
+    }
+    
+}
 
  
 
