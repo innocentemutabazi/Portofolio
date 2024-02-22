@@ -442,7 +442,7 @@ body {
     }
   }
   
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 461px) {
     header {
       display: flex;
     }
@@ -455,5 +455,12 @@ body {
     nav ul li {
       display: flex;
     }
+    .button1,
+    .button2 {
+      width: 120px;
+      font-size: medium;
+  
+    }
   }
+  
   
