@@ -395,19 +395,8 @@ hr{
     display: flex;
     flex-direction: column;
     justify-content: center;
-
  }
- .headerlogo {
-        float: none;
-        display: inline;
-        margin: 0 auto;
-    }
- header{
-     display: flex;
-    } 
-  nav li{
-      display: flex;
-    }
+
 }
 @media screen and (max-width:400px){
     header{
