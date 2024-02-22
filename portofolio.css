@@ -397,9 +397,11 @@ hr{
     justify-content: center;
 
  }
- .headerlogo{
-     display:none;
- }
+ .headerlogo {
+        float: none;
+        display: inline;
+        margin: 0 auto;
+    }
 }
 
 
